@@ -3,7 +3,7 @@ package com.example.lab.demo;
 import com.example.lab.demo.delivery.PostDelivery;
 import com.example.lab.demo.flowers.Flower;
 import com.example.lab.demo.flowers.FlowerColor;
-import com.example.lab.demo.flowers.Item;
+import com.example.lab.demo.item.Item;
 import com.example.lab.demo.delivery.DHLDelivery;
 
 import org.junit.jupiter.api.Assertions;

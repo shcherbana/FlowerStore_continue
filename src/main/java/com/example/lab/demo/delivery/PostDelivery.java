@@ -1,5 +1,5 @@
 package com.example.lab.demo.delivery;
-import com.example.lab.demo.flowers.Item;
+import com.example.lab.demo.item.Item;
 
 import java.util.List;
 

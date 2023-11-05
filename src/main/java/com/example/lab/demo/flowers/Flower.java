@@ -1,5 +1,6 @@
 package com.example.lab.demo.flowers;
 
+import com.example.lab.demo.item.Item;
 import lombok.Getter;
 import lombok.AllArgsConstructor;
 import lombok.NoArgsConstructor;
